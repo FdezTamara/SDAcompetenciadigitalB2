@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260407235057LBGTGM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260407235057N4AIOK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA Viaje en el tiempo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Tamara Fernández González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SDA para realizar con el alumnado de 6º de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775598523815</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnp5ilad-f54zbvn4k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SDA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la SDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilad-f54zbvn4k</odePageId>
+      <odeBlockId>20260407211149ZFOZDS</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilad-f54zbvn4k</odePageId>
+          <odeBlockId>20260407211149ZFOZDS</odeBlockId>
+          <odeIdeviceId>202604061048336582C9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><ul>
+<li><strong>NIVEL Y ETAPA EDUCATIVA:</strong> 6º Educación Primaria</li>
+<li><strong>ÁREA:</strong> Ciencias Sociales</li>
+<li><strong>AGRUPAMIENTOS Y ORGANIZACIÓN: </strong>25 estudiantes. Dependiendo de la actividad, se agruparán en parejas o grupos de 4/5.</li>
+<li><strong>TEMPORALIZACIÓN: </strong>marzo - abril &nbsp;14 sesiones. Dos sesiones semanales de 45 minutos cada una.</li>
+<li><strong>EVIDENCIAS DE APRENDIZAJE: PRODUCTOS DESARROLLADOS</strong>
+<ul>
+<li><strong><em>TAREA 1: </em></strong>Línea del tiempo. Infografía. Cada alumno/a elaborará una línea del tiempo sobre la época estudiada con los acontecimientos y fechas históricas más relevantes, así como los personajes y las corrientes artísticas de ese período histórico.&nbsp;<br>Agrupamiento: parejas<br>Herramientas TIC: ordenador portátil individual (para acceder a la aplicación y a los recursos web de búsqueda de información), Canva (para elaborar la infografía colaborativa), panel digital de aula (para exponer la infografía) y blog de nivel (para difundir nuestro trabajo).</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li style="list-style-type: none;">
+<ol></ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<ul>
+<li style="list-style-type: none;">
+<ul style="list-style-type: circle;">
+<li><em><strong>TAREA 2:</strong></em>&nbsp;Podcast. Grabación de un podcast. Entrevista a un personaje de la Edad Moderna. Propuestas: La reina Isabel I de Castilla, Cristóbal Colón, Juan Sebastián Elcano, Felipe II, Diego Velázquez, Miguel de Cervantes, Santa Teresa de Jesús, la pintora renacentista Sofonisba Anguissola o un pícaro de la época.<br>Agrupamiento: equipos colaborativos de 4 ó 5 estudiantes<br>Herramientas TIC: tablet individual (para acceder a los recursos web y búsqueda de información y para elaborar el guion de la entrevista), aplicaciones @365: OneDrive, Word, (para escribir nuestra entrevista y guardarla), Recspreaker y Audacity (para grabar entrevista), mesa de mezclas radio escolar, cascos y micrófonos y blog (para difusión de la entrevista).</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604061048336582C9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>NIVEL Y ETAPA EDUCATIVA:</strong> 6º Educación Primaria</li>\n<li><strong>ÁREA:</strong> Ciencias Sociales</li>\n<li><strong>AGRUPAMIENTOS Y ORGANIZACIÓN: </strong>25 estudiantes. Dependiendo de la actividad, se agruparán en parejas o grupos de 4/5.</li>\n<li><strong>TEMPORALIZACIÓN: </strong>marzo - abril  14 sesiones. Dos sesiones semanales de 45 minutos cada una.</li>\n<li><strong>EVIDENCIAS DE APRENDIZAJE: PRODUCTOS DESARROLLADOS</strong>\n<ul>\n<li><strong><em>TAREA 1: </em></strong>Línea del tiempo. Infografía. Cada alumno/a elaborará una línea del tiempo sobre la época estudiada con los acontecimientos y fechas históricas más relevantes, así como los personajes y las corrientes artísticas de ese período histórico. <br />Agrupamiento: parejas<br />Herramientas TIC: ordenador portátil individual (para acceder a la aplicación y a los recursos web de búsqueda de información), Canva (para elaborar la infografía colaborativa), panel digital de aula (para exponer la infografía) y blog de nivel (para difundir nuestro trabajo).</li>\n</ul>\n</li>\n</ul>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li style=\"list-style-type: none;\">\n<ol></ol>\n</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul style=\"list-style-type: circle;\">\n<li><em><strong>TAREA 2:</strong></em> Podcast. Grabación de un podcast. Entrevista a un personaje de la Edad Moderna. Propuestas: La reina Isabel I de Castilla, Cristóbal Colón, Juan Sebastián Elcano, Felipe II, Diego Velázquez, Miguel de Cervantes, Santa Teresa de Jesús, la pintora renacentista Sofonisba Anguissola o un pícaro de la época.<br />Agrupamiento: equipos colaborativos de 4 ó 5 estudiantes<br />Herramientas TIC: tablet individual (para acceder a los recursos web y búsqueda de información y para elaborar el guion de la entrevista), aplicaciones @365: OneDrive, Word, (para escribir nuestra entrevista y guardarla), Recspreaker y Audacity (para grabar entrevista), mesa de mezclas radio escolar, cascos y micrófonos y blog (para difusión de la entrevista).</li>\n</ul>\n</li>\n</ul>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilam-npwgzpw81</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>1.Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilam-npwgzpw81</odePageId>
+      <odeBlockId>20260407211149GPLQCA</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilam-npwgzpw81</odePageId>
+          <odeBlockId>20260407211149GPLQCA</odeBlockId>
+          <odeIdeviceId>20260406110120812SWX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><em><strong>1.</strong><strong>Intención educativa:  Justificación de su desarrollo y el impacto esperado.</strong></em></p>
+<p>Gracias al aprendizaje de los acontecimientos y personajes relevantes de la etapa de la Edad Moderna, se acerca al alumnado a la investigación histórica como una labor indispensable para conocer y valorar nuestro pasado desde un punto de vista crítico.</p>
+<p>La puesta en valor de los elementos y manifestaciones culturales de cada sociedad como expresión de complejas relaciones económicas, sociales y políticas, valorando las creencias e ideas que las sustentan, así como sus múltiples identidades, el talento de sus integrantes y sus las relaciones con otras culturas.</p>
+<p>Esta conexión favorecerá que el alumnado experimente, a través de la curiosidad por el pasado histórico, la necesidad de conocer y valorar los acontecimientos históricos ocurridos en el pasado, además de analizar y comparar las sociedades y los modos de vida de nuestro pasado y presente. Todo ello contribuirá a la adquisición y desarrollo de las competencias clave y específicas.</p>
+<p>La elaboración de una línea del tiempo implica poner en marcha muchas estrategias y destrezas en el alumnado. Activar los conocimientos previos, conectar los saberes y llevarlos a la práctica, ser capaces de ordenar unos hechos en una secuencia temporal, buscar y ordenar la información consultando distintas fuentes, discriminando entre todos los datos obtenidos aquellos que nos resulten útiles para nuestro producto final fomenta el desarrollo de las competencias específicas.</p>
+<p>Por otra parte, investigar sobre un personaje del pasado para elaborar una entrevista con las posibles respuestas que podría dar el entrevistado o entrevistada, fomenta la creatividad, la capacidad de análisis, la redacción, la expresión oral y escrita, así como la dramatización. Todo ello sin perder de vista la gran oportunidad que supone para contextualizar hechos del pasado y acercar otras realidades a esta etapa educativa.</p>
+<p>El uso de metodologías activas, los agrupamientos, los recursos TIC, los libros de consulta y láminas sobre la época, &nbsp;permitirá que todo el alumnado sea partícipe del proceso educativo.</p>
+<p><em><strong>Impacto esperado:</strong></em></p>
+<p>Con las actividades y los productos propuestos, lo que esperamos es que nuestro alumnado aprenda de forma lúdica sobre los acontecimientos históricos de esa época, desarrollando además otras destrezas como son la búsqueda y selección de información, la organización del contenido, la expresión oral y escrita, el análisis crítico, etc. Además el uso delas herramientas TIC les será favorable para adquirir competencias digitales. El uso de aplicaciones como canva les hará desarrollar el gusto estético para presentar trabajo sin descuidar el contenido y con la grabación del podcast ganarán autonomía.</p>
+<p>Todo ello favorecerá que el alumnado experimente, a través de la curiosidad, por el pasado histórico, la necesidad de conocer y valorar los acontecimientos históricos y artísticos &nbsp;ocurridos en el pasado para valorar y conocer el presente.</p>
+<p><em><strong>Relación de la SdA con los ODS:</strong></em></p>
+<ol>
+<li>ODS 4 Educación de Calidad. Por medio de la alfabetización cultural, así como crear nuevas posibilidades y espacios para la cooperación y el diálogo mediante el desarrollo de competencias interculturales basadas en valores comunes, en el entendimiento y el respeto recíprocos, en la empatía, en la reconciliación y en la confianza. De este modo, se pretende favorecer la inclusión educativa de todo el alumnado.</li>
+<li>ODS 5 Igualdad de género. &nbsp;Partiendo &nbsp;del aprendizaje de los acontecimientos y personajes relevantes de la etapa de la Edad Moderna , se acerca al alumnado a la investigación histórica como una labor indispensable para conocer y valorar nuestro pasado desde un punto de vista crítico. De este modo, se pretende favorecer una reflexión sobre el papel de figuras femeninas relevantes en la época y su aportación a nuestro patrimonio histórico y cultural, así como el papel de la mujer durante la Edad Moderna y las connotaciones negativas que se le atribuyeron en oscuros momentos históricos.</li>
+</ol>
+<p><em><strong>Relación con los retos del siglo XXI:</strong></em></p>
+<p>El pensamiento crítico y cultura digital, es el principal reto del siglo XXI &nbsp;que se pretende desarrollar con la implementación de esta situación de aprendizaje. El uso de los recursos digitales disponibles para el trabajo en el aula, la investigación sobre hechos y personajes históricos, la elaboración de una infografía que represente una línea del tiempo, la búsqueda de imágenes, datos y acontecimientos, el análisis crítico de la información seleccionada, así como el trabajo cooperativo y la toma de decisiones en equipo, harán posible que el alumnado se beneficie de las oportunidades que le brinda la cultura digital.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406110120812SWX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>1.</strong><strong>Intención educativa:  Justificación de su desarrollo y el impacto esperado.</strong></em></p>\n<p>Gracias al aprendizaje de los acontecimientos y personajes relevantes de la etapa de la Edad Moderna, se acerca al alumnado a la investigación histórica como una labor indispensable para conocer y valorar nuestro pasado desde un punto de vista crítico.</p>\n<p>La puesta en valor de los elementos y manifestaciones culturales de cada sociedad como expresión de complejas relaciones económicas, sociales y políticas, valorando las creencias e ideas que las sustentan, así como sus múltiples identidades, el talento de sus integrantes y sus las relaciones con otras culturas.</p>\n<p>Esta conexión favorecerá que el alumnado experimente, a través de la curiosidad por el pasado histórico, la necesidad de conocer y valorar los acontecimientos históricos ocurridos en el pasado, además de analizar y comparar las sociedades y los modos de vida de nuestro pasado y presente. Todo ello contribuirá a la adquisición y desarrollo de las competencias clave y específicas.</p>\n<p>La elaboración de una línea del tiempo implica poner en marcha muchas estrategias y destrezas en el alumnado. Activar los conocimientos previos, conectar los saberes y llevarlos a la práctica, ser capaces de ordenar unos hechos en una secuencia temporal, buscar y ordenar la información consultando distintas fuentes, discriminando entre todos los datos obtenidos aquellos que nos resulten útiles para nuestro producto final fomenta el desarrollo de las competencias específicas.</p>\n<p>Por otra parte, investigar sobre un personaje del pasado para elaborar una entrevista con las posibles respuestas que podría dar el entrevistado o entrevistada, fomenta la creatividad, la capacidad de análisis, la redacción, la expresión oral y escrita, así como la dramatización. Todo ello sin perder de vista la gran oportunidad que supone para contextualizar hechos del pasado y acercar otras realidades a esta etapa educativa.</p>\n<p>El uso de metodologías activas, los agrupamientos, los recursos TIC, los libros de consulta y láminas sobre la época,  permitirá que todo el alumnado sea partícipe del proceso educativo.</p>\n<p><em><strong>Impacto esperado:</strong></em></p>\n<p>Con las actividades y los productos propuestos, lo que esperamos es que nuestro alumnado aprenda de forma lúdica sobre los acontecimientos históricos de esa época, desarrollando además otras destrezas como son la búsqueda y selección de información, la organización del contenido, la expresión oral y escrita, el análisis crítico, etc. Además el uso delas herramientas TIC les será favorable para adquirir competencias digitales. El uso de aplicaciones como canva les hará desarrollar el gusto estético para presentar trabajo sin descuidar el contenido y con la grabación del podcast ganarán autonomía.</p>\n<p>Todo ello favorecerá que el alumnado experimente, a través de la curiosidad, por el pasado histórico, la necesidad de conocer y valorar los acontecimientos históricos y artísticos  ocurridos en el pasado para valorar y conocer el presente.</p>\n<p><em><strong>Relación de la SdA con los ODS:</strong></em></p>\n<ol>\n<li>ODS 4 Educación de Calidad. Por medio de la alfabetización cultural, así como crear nuevas posibilidades y espacios para la cooperación y el diálogo mediante el desarrollo de competencias interculturales basadas en valores comunes, en el entendimiento y el respeto recíprocos, en la empatía, en la reconciliación y en la confianza. De este modo, se pretende favorecer la inclusión educativa de todo el alumnado.</li>\n<li>ODS 5 Igualdad de género.  Partiendo  del aprendizaje de los acontecimientos y personajes relevantes de la etapa de la Edad Moderna , se acerca al alumnado a la investigación histórica como una labor indispensable para conocer y valorar nuestro pasado desde un punto de vista crítico. De este modo, se pretende favorecer una reflexión sobre el papel de figuras femeninas relevantes en la época y su aportación a nuestro patrimonio histórico y cultural, así como el papel de la mujer durante la Edad Moderna y las connotaciones negativas que se le atribuyeron en oscuros momentos históricos.</li>\n</ol>\n<p><em><strong>Relación con los retos del siglo XXI:</strong></em></p>\n<p>El pensamiento crítico y cultura digital, es el principal reto del siglo XXI  que se pretende desarrollar con la implementación de esta situación de aprendizaje. El uso de los recursos digitales disponibles para el trabajo en el aula, la investigación sobre hechos y personajes históricos, la elaboración de una infografía que represente una línea del tiempo, la búsqueda de imágenes, datos y acontecimientos, el análisis crítico de la información seleccionada, así como el trabajo cooperativo y la toma de decisiones en equipo, harán posible que el alumnado se beneficie de las oportunidades que le brinda la cultura digital. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilao-oc68mypnp</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>2.Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilao-oc68mypnp</odePageId>
+      <odeBlockId>20260407211149FKRYPM</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilao-oc68mypnp</odePageId>
+          <odeBlockId>20260407211149FKRYPM</odeBlockId>
+          <odeIdeviceId>20260406110750557K1Q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><em><strong>Competencias clave (descriptores operativos/perfil de salida).&nbsp;</strong></em></p>
+<ol>
+<li><em>CCL competencia en comunicación lingüística.</em> El alumnado trabajará esta competencia a través de la elaboración de textos, redacción de a entrevista, comunicación oral y escrita.</li>
+<li><em>STEM competencia matemática y competencia en ciencia y tecnología.</em> El trabajo de esta competencia se abordará desde la elaboración de la línea del tiempo, el orden cronológico de los acontecimientos, los siglos, el concepto de tiempo histórico, así como del conocimiento de los inventos científicos y tecnológicos de la época que marcaron el inicio de una era, como la imprenta, los planos de Leonardo da Vinci, el astrolabio y la brújula, etc.</li>
+<li><em>CD competencia digital</em>. El uso de los portátiles, así como de las herramientas digitales como el OneDrive, Word, Canva, Audacity, Recspreker, harán que nuestro alumnado desarrolle estrategias que les permitan ser ciudadanos digitales competentes.</li>
+<li><em>CPSAA competencia personal, social y de aprender a aprender.</em> Buscar información, seleccionarla, organizarla y difundirla, ayudará al alumnado a desarrollar la capacidad de aprender a aprender. El hecho de trabajar en equipo, cooperando, ayudando y aportando, respetando otros puntos de vista y fomentando la empatía, les dará las herramientas para afianzar la capacidad de desarrollar la competencia personal y social.</li>
+<li><em>CC competencia ciudadana. </em>Esta competencia se trabaja por medio del conocimiento de otras realidades y contextos históricos. Conocer el pasado nos dará las claves para entender, entre otros, &nbsp;los aspectos &nbsp;sociales del presente. Aprender a mirar la historia con los ojos del presente pero entendiendo el momento histórico, dará a los estudiantes las bases de la competencia ciudadana.</li>
+<li><em>CE competencia emprendedora. </em>La toma de decisiones, exponer los trabajos, coordinar el grupo, difundir el trabajo, etc. son estrategias que facilitan al alumnado el desarrollo de esta competencia.</li>
+<li><em>CCEC competencia en conciencia y expresión culturales. </em>La elaboración de la línea del tiempo en canva, fomentará no solo la adquisición de los saberes, también se trabaja la estética, la presentación y la expresión plástica. La creación del podcast abarca aspectos que fomentan la creatividad, buscar las respuestas que nos daría un personaje del pasado, hablar como él o ella, dramatizar las respuestas imitando el tono de voz o el lenguaje de la época contribuyen al fomento de esta competencia. Por otro lado, el conocimiento de las corrientes artísticas, Renacimiento, Barroco, la pintura, la escultura y la arquitectura, autores y autoras relevantes así como el estudio de las obras más representativas, dotarán al alumnado de las estrategias necesarias para fomentar esta competencia.</li>
+</ol>
+<p><em><strong>Competencias específicas: Detalla las competencias específicas.&nbsp;</strong></em></p>
+<p>1. Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse, trabajar de manera individual, en equipo y en red y crear contenido digital de acuerdo a las necesidades digitales del contexto educativo. El alumnado trabajará esta competencia a través del trabajo con los ordenadores, la búsqueda de información, creación de una línea del tiempo en canva, redacción de una entrevista en word, grabación de un podcast, entre otros.</p>
+<p>2. Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural. La lectura de textos y datos de la época estudiada, así como la interpretación de obras de arte, cuadros, esculturas, etc., nos ayudarán a trabajar esta competencia.</p>
+<p>7. Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos. El visionado de vídeos, cortometrajes, películas e imágenes de la época, la lectura de texto históricos y obras artísticas, serán claves para establecer una relación comparativa entre las sociedades pasadas y presentes.&nbsp;</p>
+<p>5. Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural y emprender acciones para un uso responsable, su conservación y mejora.</p>
+<p><em><strong>Saberes Básicos: Identifica los conocimientos y habilidades integrados en la situación de aprendizaje. &nbsp;</strong></em></p>
+<p><em>B. Tecnología y digitalización. Se incluye desde el área de CN</em></p>
+<p>1. Digitalización del entorno personal de aprendizaje:</p>
+<p>- Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.</p>
+<p>- Estrategias de búsqueda de información seguras y eficientes en Internet (valoración, discriminación, selección, organización y propiedad intelectual).</p>
+<p>- Estrategias de recogida, almacenamiento y representación de datos para facilitar su comprensión y análisis.</p>
+<p>- Reglas básicas de seguridad y privacidad para navegar por Internet.</p>
+<p><em>Bloque A. Sociedades y territorios</em></p>
+<p>Sociedades en el tiempo</p>
+<p>El tiempo histórico. Nociones temporales y cronología. Ubicación temporal de las grandes etapas históricas.</p>
+<p>Las fuentes históricas: clasificación y utilización de las distintas fuentes (orales, escritas, patrimoniales) como vía para el análisis de los cambios y permanencias en la localidad a lo largo de la historia. Las huellas de la historia en lugares, edificios, objetos, oficios o tradiciones del Principado de Asturias.</p>
+<p>Las expresiones artísticas y culturales, modernas y su contextualización histórica desde una perspectiva de género. La función del arte y la cultura en el mundo moderno&nbsp;</p>
+<p>- El patrimonio natural y cultural como bien y recurso; su uso, cuidado y conservación.</p>
+<p>Alfabetización cívica</p>
+<p>- &nbsp;La cultura de paz y no violencia. El pensamiento crítico como herramienta para el análisis de los conflictos de intereses. El reconocimiento de las víctimas de la violencia.&nbsp;</p>
+<p>Conciencia ecosocial&nbsp;</p>
+<p>- &nbsp;Responsabilidad ecosocial. Ecodependencia, interdependencia e interrelación entre personas, sociedades y medio natural.&nbsp;</p>
+<p>- &nbsp;El desarrollo sostenible. La actividad humana sobre el espacio y la explotación de los recursos. La actividad económica y la distribución de la riqueza: desigualdad social y regional en el mundo, en España y en el Principado de Asturias. Los Objetivos de Desarrollo Sostenible</p>
+<p><em><strong>Criterios de evaluación relacionados con las competencias específicas. &nbsp;</strong></em></p>
+<table border="2" style="width: 100%; height: 90px;">
+<tbody>
+<tr style="height: 27px;">
+<td style="width: 49.9313%; height: 27px;">COMPETENCIAS ESPECÍFICAS</td>
+<td style="width: 49.9313%; height: 27px;">CRITERIOS DE EVALUACIÓN</td>
+</tr>
+<tr style="height: 26px;">
+<td style="width: 49.9313%; height: 26px;">1. Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo, mejorarlo y emprender acciones para su uso responsable.</td>
+<td style="width: 49.9313%; height: 26px;">
+<p>1.2. &nbsp;Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural mostrando comprensión de las relaciones que se establecen.</p>
+<p>1.3. &nbsp;Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejen compromisos y conductas en favor de la sostenibilidad.</p>
+</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 49.9313%; height: 10px;">
+<p>3. Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.</p>
+<p><br></p>
+</td>
+<td style="width: 49.9313%; height: 10px;">
+<p>3.1. Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio social y cultural de la Edad Moderna hasta la actualidad, situando cronológicamente los hechos.</p>
+<p>3.2. Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Edad moderna &nbsp;hasta la actualidad, incorporando la perspectiva de género, situándolas cronológicamente e identificando rasgos significativos sociales en distintas épocas de la historia.</p>
+</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 49.9313%; height: 27px;">4. Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de integración europea.</td>
+<td style="width: 49.9313%; height: 27px;">
+<p>4.1. Analizar los procesos geográficos, históricos y culturales que han conformado la sociedad actual, valorando la diversidad etnocultural o afectivo-sexual y la cohesión social y mostrando empatía y respeto por otras culturas y la igualdad de género.</p>
+<p>4.2. Promover actitudes de igualdad de género y conductas no sexistas, analizando y contrastando diferentes modelos en nuestra sociedad.</p>
+</td>
+</tr>
+</tbody>
+</table><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406110750557K1Q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Competencias clave (descriptores operativos/perfil de salida). </strong></em></p>\n<ol>\n<li><em>CCL competencia en comunicación lingüística.</em> El alumnado trabajará esta competencia a través de la elaboración de textos, redacción de a entrevista, comunicación oral y escrita.</li>\n<li><em>STEM competencia matemática y competencia en ciencia y tecnología.</em> El trabajo de esta competencia se abordará desde la elaboración de la línea del tiempo, el orden cronológico de los acontecimientos, los siglos, el concepto de tiempo histórico, así como del conocimiento de los inventos científicos y tecnológicos de la época que marcaron el inicio de una era, como la imprenta, los planos de Leonardo da Vinci, el astrolabio y la brújula, etc.</li>\n<li><em>CD competencia digital</em>. El uso de los portátiles, así como de las herramientas digitales como el OneDrive, Word, Canva, Audacity, Recspreker, harán que nuestro alumnado desarrolle estrategias que les permitan ser ciudadanos digitales competentes.</li>\n<li><em>CPSAA competencia personal, social y de aprender a aprender.</em> Buscar información, seleccionarla, organizarla y difundirla, ayudará al alumnado a desarrollar la capacidad de aprender a aprender. El hecho de trabajar en equipo, cooperando, ayudando y aportando, respetando otros puntos de vista y fomentando la empatía, les dará las herramientas para afianzar la capacidad de desarrollar la competencia personal y social.</li>\n<li><em>CC competencia ciudadana. </em>Esta competencia se trabaja por medio del conocimiento de otras realidades y contextos históricos. Conocer el pasado nos dará las claves para entender, entre otros,  los aspectos  sociales del presente. Aprender a mirar la historia con los ojos del presente pero entendiendo el momento histórico, dará a los estudiantes las bases de la competencia ciudadana.</li>\n<li><em>CE competencia emprendedora. </em>La toma de decisiones, exponer los trabajos, coordinar el grupo, difundir el trabajo, etc. son estrategias que facilitan al alumnado el desarrollo de esta competencia.</li>\n<li><em>CCEC competencia en conciencia y expresión culturales. </em>La elaboración de la línea del tiempo en canva, fomentará no solo la adquisición de los saberes, también se trabaja la estética, la presentación y la expresión plástica. La creación del podcast abarca aspectos que fomentan la creatividad, buscar las respuestas que nos daría un personaje del pasado, hablar como él o ella, dramatizar las respuestas imitando el tono de voz o el lenguaje de la época contribuyen al fomento de esta competencia. Por otro lado, el conocimiento de las corrientes artísticas, Renacimiento, Barroco, la pintura, la escultura y la arquitectura, autores y autoras relevantes así como el estudio de las obras más representativas, dotarán al alumnado de las estrategias necesarias para fomentar esta competencia.</li>\n</ol>\n<p><em><strong>Competencias específicas: Detalla las competencias específicas. </strong></em></p>\n<p>1. Utilizar dispositivos y recursos digitales de forma segura, responsable y eficiente, para buscar información, comunicarse, trabajar de manera individual, en equipo y en red y crear contenido digital de acuerdo a las necesidades digitales del contexto educativo. El alumnado trabajará esta competencia a través del trabajo con los ordenadores, la búsqueda de información, creación de una línea del tiempo en canva, redacción de una entrevista en word, grabación de un podcast, entre otros.</p>\n<p>2. Plantear y dar respuesta a cuestiones científicas sencillas, utilizando diferentes técnicas, instrumentos y modelos propios del pensamiento científico, para interpretar y explicar hechos y fenómenos que ocurren en el medio natural, social y cultural. La lectura de textos y datos de la época estudiada, así como la interpretación de obras de arte, cuadros, esculturas, etc., nos ayudarán a trabajar esta competencia.</p>\n<p>7. Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión para explicar y valorar las relaciones entre diferentes elementos y acontecimientos. El visionado de vídeos, cortometrajes, películas e imágenes de la época, la lectura de texto históricos y obras artísticas, serán claves para establecer una relación comparativa entre las sociedades pasadas y presentes. </p>\n<p>5. Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades, y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural y emprender acciones para un uso responsable, su conservación y mejora.</p>\n<p><em><strong>Saberes Básicos: Identifica los conocimientos y habilidades integrados en la situación de aprendizaje.  </strong></em></p>\n<p><em>B. Tecnología y digitalización. Se incluye desde el área de CN</em></p>\n<p>1. Digitalización del entorno personal de aprendizaje:</p>\n<p>- Dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo.</p>\n<p>- Estrategias de búsqueda de información seguras y eficientes en Internet (valoración, discriminación, selección, organización y propiedad intelectual).</p>\n<p>- Estrategias de recogida, almacenamiento y representación de datos para facilitar su comprensión y análisis.</p>\n<p>- Reglas básicas de seguridad y privacidad para navegar por Internet.</p>\n<p><em>Bloque A. Sociedades y territorios</em></p>\n<p>Sociedades en el tiempo</p>\n<p>El tiempo histórico. Nociones temporales y cronología. Ubicación temporal de las grandes etapas históricas.</p>\n<p>Las fuentes históricas: clasificación y utilización de las distintas fuentes (orales, escritas, patrimoniales) como vía para el análisis de los cambios y permanencias en la localidad a lo largo de la historia. Las huellas de la historia en lugares, edificios, objetos, oficios o tradiciones del Principado de Asturias.</p>\n<p>Las expresiones artísticas y culturales, modernas y su contextualización histórica desde una perspectiva de género. La función del arte y la cultura en el mundo moderno </p>\n<p>- El patrimonio natural y cultural como bien y recurso; su uso, cuidado y conservación.</p>\n<p>Alfabetización cívica</p>\n<p>-  La cultura de paz y no violencia. El pensamiento crítico como herramienta para el análisis de los conflictos de intereses. El reconocimiento de las víctimas de la violencia. </p>\n<p>Conciencia ecosocial </p>\n<p>-  Responsabilidad ecosocial. Ecodependencia, interdependencia e interrelación entre personas, sociedades y medio natural. </p>\n<p>-  El desarrollo sostenible. La actividad humana sobre el espacio y la explotación de los recursos. La actividad económica y la distribución de la riqueza: desigualdad social y regional en el mundo, en España y en el Principado de Asturias. Los Objetivos de Desarrollo Sostenible</p>\n<p><em><strong>Criterios de evaluación relacionados con las competencias específicas.  </strong></em></p>\n<table border=\"2\" style=\"width: 100%; height: 90px;\">\n<tbody>\n<tr style=\"height: 27px;\">\n<td style=\"width: 49.9313%; height: 27px;\">COMPETENCIAS ESPECÍFICAS</td>\n<td style=\"width: 49.9313%; height: 27px;\">CRITERIOS DE EVALUACIÓN</td>\n</tr>\n<tr style=\"height: 26px;\">\n<td style=\"width: 49.9313%; height: 26px;\">1. Identificar las características de los diferentes elementos o sistemas del medio natural, social y cultural, analizando su organización y propiedades y estableciendo relaciones entre los mismos, para reconocer el valor del patrimonio cultural y natural, conservarlo, mejorarlo y emprender acciones para su uso responsable.</td>\n<td style=\"width: 49.9313%; height: 26px;\">\n<p>1.2.  Establecer conexiones sencillas entre diferentes elementos del medio natural, social y cultural mostrando comprensión de las relaciones que se establecen.</p>\n<p>1.3.  Valorar, proteger y mostrar actitudes de conservación y mejora del patrimonio natural y cultural a través de propuestas y acciones que reflejen compromisos y conductas en favor de la sostenibilidad.</p>\n</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 49.9313%; height: 10px;\">\n<p>3. Observar, comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión, para explicar y valorar las relaciones entre diferentes elementos y acontecimientos.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 49.9313%; height: 10px;\">\n<p>3.1. Analizar relaciones de causalidad, simultaneidad y sucesión entre diferentes elementos del medio social y cultural de la Edad Moderna hasta la actualidad, situando cronológicamente los hechos.</p>\n<p>3.2. Conocer personas, grupos sociales relevantes y formas de vida de las sociedades desde la Edad moderna  hasta la actualidad, incorporando la perspectiva de género, situándolas cronológicamente e identificando rasgos significativos sociales en distintas épocas de la historia.</p>\n</td>\n</tr>\n<tr style=\"height: 27px;\">\n<td style=\"width: 49.9313%; height: 27px;\">4. Reconocer y valorar la diversidad y la igualdad de género, mostrando empatía y respeto por otras culturas y reflexionando sobre cuestiones éticas, para contribuir al bienestar individual y colectivo de una sociedad en continua transformación y al logro de los valores de integración europea.</td>\n<td style=\"width: 49.9313%; height: 27px;\">\n<p>4.1. Analizar los procesos geográficos, históricos y culturales que han conformado la sociedad actual, valorando la diversidad etnocultural o afectivo-sexual y la cohesión social y mostrando empatía y respeto por otras culturas y la igualdad de género.</p>\n<p>4.2. Promover actitudes de igualdad de género y conductas no sexistas, analizando y contrastando diferentes modelos en nuestra sociedad.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilar-4so275ngr</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilar-4so275ngr</odePageId>
+      <odeBlockId>20260407211149FLPTQK</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilar-4so275ngr</odePageId>
+          <odeBlockId>20260407211149FLPTQK</odeBlockId>
+          <odeIdeviceId>20260406112239741QI8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Esta programación ha tenido en cuenta los diferentes ritmos y estilos de aprendizaje del alumnado, desde el diseño como marca el Diseño Universal para el Aprendizaje (DUA), de modo que sus principios favorecedores de la inclusión educativa están implícitos desde el momento de su diseño. Para ello, hemos partido de una serie de principios básicos que se materializan en las siguientes metodologías:&nbsp;</p>
+<p><strong>Aprendizaje cooperativo:</strong> el uso didáctico de los grupos de alumnas y alumnos en pequeños equipo de trabajo conjunto, nos ayudará a alcanzar la metas previstas de una manera común y maximizando el aprendizaje propio y ajeno.&nbsp;</p>
+<p>La finalidad del aprendizaje cooperativo es el desarrollo de los aprendizajes competenciales del currículo a través de dinámicas de trabajo en grupo e interacción social, con roles claramente definidos. Fomenta valores como la empatía, la ayuda mutua, la participación, la asunción de responsabilidades, la conciencia sobre los propios errores y la autorregulación del aprendizaje. Además contribuye al desarrollo de habilidades sociales, la inclusividad y la atención a la diversidad del alumnado. Lo combinaremos con momentos de aprendizaje individual, que ayudarán a la reflexión y a la autonomía.</p>
+<p><strong>Gamificación: </strong>Trataremos de hacer lúdicos los aprendizajes para fomentar un aprendizaje activo, hacer más entretenido el proceso de aprendizaje, aumentar la motivación del alumnado, fomentar la proactividad en el estudio, incentivar al alumnado y optimizar la eficacia del proceso de aprendizaje. Aplicaciones como Kahoot, Edpuzzle o Mentimeter, nos ayudarán a implementar esta metodología en el aula. Además, el uso de otras herramientas digitales para elaborar los productos finales, como Canva o Genially, permitirán descubrir al alumnado otras aplicaciones que no se basen solo en sistemas de puntos o recompensas, si no que vean el resultado de trabajo como un producto de aprendizaje a través del juego.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406112239741QI8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta programación ha tenido en cuenta los diferentes ritmos y estilos de aprendizaje del alumnado, desde el diseño como marca el Diseño Universal para el Aprendizaje (DUA), de modo que sus principios favorecedores de la inclusión educativa están implícitos desde el momento de su diseño. Para ello, hemos partido de una serie de principios básicos que se materializan en las siguientes metodologías: </p>\n<p><strong>Aprendizaje cooperativo:</strong> el uso didáctico de los grupos de alumnas y alumnos en pequeños equipo de trabajo conjunto, nos ayudará a alcanzar la metas previstas de una manera común y maximizando el aprendizaje propio y ajeno. </p>\n<p>La finalidad del aprendizaje cooperativo es el desarrollo de los aprendizajes competenciales del currículo a través de dinámicas de trabajo en grupo e interacción social, con roles claramente definidos. Fomenta valores como la empatía, la ayuda mutua, la participación, la asunción de responsabilidades, la conciencia sobre los propios errores y la autorregulación del aprendizaje. Además contribuye al desarrollo de habilidades sociales, la inclusividad y la atención a la diversidad del alumnado. Lo combinaremos con momentos de aprendizaje individual, que ayudarán a la reflexión y a la autonomía.</p>\n<p><strong>Gamificación: </strong>Trataremos de hacer lúdicos los aprendizajes para fomentar un aprendizaje activo, hacer más entretenido el proceso de aprendizaje, aumentar la motivación del alumnado, fomentar la proactividad en el estudio, incentivar al alumnado y optimizar la eficacia del proceso de aprendizaje. Aplicaciones como Kahoot, Edpuzzle o Mentimeter, nos ayudarán a implementar esta metodología en el aula. Además, el uso de otras herramientas digitales para elaborar los productos finales, como Canva o Genially, permitirán descubrir al alumnado otras aplicaciones que no se basen solo en sistemas de puntos o recompensas, si no que vean el resultado de trabajo como un producto de aprendizaje a través del juego.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilat-fotgt62x9</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilat-fotgt62x9</odePageId>
+      <odeBlockId>20260407211149UEYEWA</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilat-fotgt62x9</odePageId>
+          <odeBlockId>20260407211149UEYEWA</odeBlockId>
+          <odeIdeviceId>20260406112458710BA8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>4.1 Vinculación con el PLEI</strong><br>Con el desarrollo de esta Situación de Aprendizaje el alumnado desarrollará las 6 destrezas de la lengua que se recogen en el Plan Lector: Hablar, Escuchar, Leer, Escribir, Conversar y Mediar. &nbsp;<br>Entre las actuaciones previstas, destacan:&nbsp;<br>1. Lecturas sobre temas históricos, revistas, artículos, etc. del tema de estudio trabajado.&nbsp;<br>2. Lecturas de libros de ficción que tengan que ver con temáticas del área&nbsp;<br>3. Trabajos de investigación en la biblioteca, usando material impreso: láminas, fichas, libros de consulta, revistas, ensayos, cuadernos de campo, etc.&nbsp;<br>4. Trabajos en formato digital usando fuentes de consulta online y presentando la información en diferentes formatos: Word, PPT y uso de las herramientas de @365 (Teams, Blog de notas, Sway, etc.)&nbsp; 5. Realización de producciones escritas como la elaboración del guion para la entrevista en el podcast y realización de tareas de investigación para elaborar la línea del tiempo de la Edad Moderna.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p><strong>4.2 Vinculación con el Plan de digitalización (TIC)</strong><br>Con el desarrollo de esta Situación de Aprendizaje el alumnado desarrollará las 6 destrezas de la lengua que se recogen en el Plan Lector: Hablar, Escuchar, Leer, Escribir, Conversar y Mediar. &nbsp;<br>Entre las actuaciones previstas, destacan:&nbsp;<br>1. Lecturas sobre temas históricos, revistas, artículos, etc. del tema de estudio trabajado.&nbsp;<br>2. Lecturas de libros de ficción que tengan que ver con temáticas del área&nbsp;<br>3. Trabajos de investigación en la biblioteca, usando material impreso: láminas, fichas, libros de consulta, revistas, ensayos, cuadernos de campo, etc.&nbsp;<br>4. Trabajos en formato digital usando fuentes de consulta online y presentando la información en diferentes formatos: Word, ppt, y uso de las herramientas de @365 (Teams, Blog de notas, Sway, etc.) &nbsp;5. Realización de producciones escritas como la elaboración del guion para la entrevista en el podcast y realización de tareas de investigación para elaborar la línea del tiempo de la Edad Moderna</p>
+<p><strong>4.3 Vinculación con el Proyecto de Salud</strong><br>Participar en las actividades propuestas del Proyecto de deporte &nbsp;y seguir las normas de los juegos y disfrutar manteniendo una vida saludable.</p>
+<p>Valora positivamente el conocimiento de deportes y juegos.</p>
+<p><strong>4.4 Vinculación con el proyecto de reciclaje</strong>&nbsp;<br>Participar en las actividades propuestas desde el programa: &nbsp;<br>Patrullas verdes (6º de Primaria)<br>Día del Medioambiente&nbsp;<br><br><strong>4.5 Vinculación con el Proyecto de coeducación</strong><br>Tratamientos de las actividades, tareas y situación de aprendizaje planteada desde una perspectiva coeducativa.<br>Realizar trabajos y exposiciones sobre mujeres relevantes en la historia y las artes.<br>Valorar los modelos cercanos, fomentando el respeto de la comunidad educativa.</p>
+<p><strong>4.6 Taller de Radio</strong><br>Utilizar el taller de radio como recurso pedagógico al servicio de las áreas curriculares y de tiempo libre.</p>
+<p>Integrar, a través de la radio, las diferentes áreas del currículo escolar, de tal forma que las palabras sirvan para que el aprendizaje significativo sea una realidad y se desarrollen las competencias básicas.</p>
+<p>Favorecer el trabajo cooperativo e integrador de los miembros participantes.</p>
+<p>En esta SdA usaremos la radio para dar difusión a nuestro podcast, entrevista a un personaje de la Edad Moderna.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406112458710BA8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>4.1 Vinculación con el PLEI</strong><br />Con el desarrollo de esta Situación de Aprendizaje el alumnado desarrollará las 6 destrezas de la lengua que se recogen en el Plan Lector: Hablar, Escuchar, Leer, Escribir, Conversar y Mediar.  <br />Entre las actuaciones previstas, destacan: <br />1. Lecturas sobre temas históricos, revistas, artículos, etc. del tema de estudio trabajado. <br />2. Lecturas de libros de ficción que tengan que ver con temáticas del área <br />3. Trabajos de investigación en la biblioteca, usando material impreso: láminas, fichas, libros de consulta, revistas, ensayos, cuadernos de campo, etc. <br />4. Trabajos en formato digital usando fuentes de consulta online y presentando la información en diferentes formatos: Word, PPT y uso de las herramientas de @365 (Teams, Blog de notas, Sway, etc.)  5. Realización de producciones escritas como la elaboración del guion para la entrevista en el podcast y realización de tareas de investigación para elaborar la línea del tiempo de la Edad Moderna.           </p>\n<p><strong>4.2 Vinculación con el Plan de digitalización (TIC)</strong><br />Con el desarrollo de esta Situación de Aprendizaje el alumnado desarrollará las 6 destrezas de la lengua que se recogen en el Plan Lector: Hablar, Escuchar, Leer, Escribir, Conversar y Mediar.  <br />Entre las actuaciones previstas, destacan: <br />1. Lecturas sobre temas históricos, revistas, artículos, etc. del tema de estudio trabajado. <br />2. Lecturas de libros de ficción que tengan que ver con temáticas del área <br />3. Trabajos de investigación en la biblioteca, usando material impreso: láminas, fichas, libros de consulta, revistas, ensayos, cuadernos de campo, etc. <br />4. Trabajos en formato digital usando fuentes de consulta online y presentando la información en diferentes formatos: Word, ppt, y uso de las herramientas de @365 (Teams, Blog de notas, Sway, etc.)  5. Realización de producciones escritas como la elaboración del guion para la entrevista en el podcast y realización de tareas de investigación para elaborar la línea del tiempo de la Edad Moderna</p>\n<p><strong>4.3 Vinculación con el Proyecto de Salud</strong><br />Participar en las actividades propuestas del Proyecto de deporte  y seguir las normas de los juegos y disfrutar manteniendo una vida saludable.</p>\n<p>Valora positivamente el conocimiento de deportes y juegos.</p>\n<p><strong>4.4 Vinculación con el proyecto de reciclaje</strong> <br />Participar en las actividades propuestas desde el programa:  <br />Patrullas verdes (6º de Primaria)<br />Día del Medioambiente <br /><br /><strong>4.5 Vinculación con el Proyecto de coeducación</strong><br />Tratamientos de las actividades, tareas y situación de aprendizaje planteada desde una perspectiva coeducativa.<br />Realizar trabajos y exposiciones sobre mujeres relevantes en la historia y las artes.<br />Valorar los modelos cercanos, fomentando el respeto de la comunidad educativa.</p>\n<p><strong>4.6 Taller de Radio</strong><br />Utilizar el taller de radio como recurso pedagógico al servicio de las áreas curriculares y de tiempo libre.</p>\n<p>Integrar, a través de la radio, las diferentes áreas del currículo escolar, de tal forma que las palabras sirvan para que el aprendizaje significativo sea una realidad y se desarrollen las competencias básicas.</p>\n<p>Favorecer el trabajo cooperativo e integrador de los miembros participantes.</p>\n<p>En esta SdA usaremos la radio para dar difusión a nuestro podcast, entrevista a un personaje de la Edad Moderna.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilav-k1h45evw6</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilav-k1h45evw6</odePageId>
+      <odeBlockId>20260407211149RNLBZK</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilav-k1h45evw6</odePageId>
+          <odeBlockId>20260407211149RNLBZK</odeBlockId>
+          <odeIdeviceId>202604061204242298AD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Todas las actividades complementarias programadas para este curso se relacionan con el área de ciencias sociales en mayor o menos medida, pero específicamente para esta SdA se vinculan las siguientes:</p>
+<ul>
+<li>Concurso amigos del Museo Bellas Artes de Asturias. Acercar al alumnado al uso de diversos y materiales y sus propiedades. &nbsp;La pintura renacentista y barroca. &nbsp;</li>
+<li>Música en el Filarmónica, Campoamor o Auditorio. Obra Bvocal, historia de la música. Además se trabajan La convivencia y los valores sociales y cívicos ante una representación artística.</li>
+<li>Ruta por las esculturas de Oviedo. Nos permitirá conocer el legado artístico de muchos autoras y el uso de los distintos materiales.</li>
+<li>Viaje de estudios: Madrid. En Madrid, la visita al Prado nos acercará a las obras del Renacimiento, Barroco y a autores como Rubens, Velázquez, El Greco, y al inicio de la Edad Contemporánea, con autores tan relevantes como Goya. La visita al Palacio Real nos llevará a la época de los Austrias.&nbsp;</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604061204242298AD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todas las actividades complementarias programadas para este curso se relacionan con el área de ciencias sociales en mayor o menos medida, pero específicamente para esta SdA se vinculan las siguientes:</p>\n<ul>\n<li>Concurso amigos del Museo Bellas Artes de Asturias. Acercar al alumnado al uso de diversos y materiales y sus propiedades.  La pintura renacentista y barroca.  </li>\n<li>Música en el Filarmónica, Campoamor o Auditorio. Obra Bvocal, historia de la música. Además se trabajan La convivencia y los valores sociales y cívicos ante una representación artística.</li>\n<li>Ruta por las esculturas de Oviedo. Nos permitirá conocer el legado artístico de muchos autoras y el uso de los distintos materiales.</li>\n<li>Viaje de estudios: Madrid. En Madrid, la visita al Prado nos acercará a las obras del Renacimiento, Barroco y a autores como Rubens, Velázquez, El Greco, y al inicio de la Edad Contemporánea, con autores tan relevantes como Goya. La visita al Palacio Real nos llevará a la época de los Austrias. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnp5ilbb-zp7z2jh35</odePageId>
+  <odeParentPageId>page-mnp5ilad-f54zbvn4k</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnp5ilbb-zp7z2jh35</odePageId>
+      <odeBlockId>block-1775598576523-7jlw7gh43</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnp5ilbb-zp7z2jh35</odePageId>
+          <odeBlockId>block-1775598576523-7jlw7gh43</odeBlockId>
+          <odeIdeviceId>idevice-1775598576521-in4fy4q68</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SDA Viaje en el tiempo</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SDA para realizar con el alumnado de 6º de Primaria</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Tamara Fernández González</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar SDA .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
